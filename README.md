@@ -8,3 +8,7 @@ All of the aur group nerd-fonts
 
 Yes.. im serious..
 but it looks cool!!!
+
+## What does it look like?
+![image](https://github.com/user-attachments/assets/a6930363-7555-4ab9-9b26-4301bb09ad81)
+![image](https://github.com/user-attachments/assets/fac6ab2f-fd3b-4e4c-ad86-05b8ff86c170)
